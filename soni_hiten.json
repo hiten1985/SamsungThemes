@@ -1,11 +1,47 @@
 [ 
+  {
+"theme_name" : "INSPIRE UI", 
+"theme_link" : "http://www.samsung.com/global/themestore/index.html?appId=theme.ideadesigns.InspireUi&SITE_CODE=in",
+"theme_image" : "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/ThemeScreens/Inspire.jpg",
+"theme_version" : {
+"number" : "1.0",
+"latest" : "true"
+}
+},
+{
+"theme_name" : "RUSTIC UI", 
+"theme_link" : "http://www.samsung.com/global/themestore/index.html?appId=theme.ideadesigns.RusticUi&SITE_CODE=in",
+"theme_image" : "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/ThemeScreens/Rustic.jpg",
+"theme_version" : {
+"number" : "1.0",
+"latest" : "false"
+}
+},
+{
+"theme_name" : "VOGUE UI", 
+"theme_link" : "http://www.samsung.com/global/themestore/index.html?appId=theme.ideadesigns.VogueUi&SITE_CODE=in",
+"theme_image" : "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/ThemeScreens/vogue.jpg",
+"theme_version" : {
+"number" : "1.0",
+"latest" : "false"
+}
+},
+{
+"theme_name" : "PRIME UI", 
+"theme_link" : "http://www.samsung.com/global/themestore/index.html?appId=theme.ideadesigns.PrimeUi&SITE_CODE=in",
+"theme_image" : "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/ThemeScreens/Prime.jpg",
+"theme_version" : {
+"number" : "1.0",
+"latest" : "false"
+}
+},
 {
 "theme_name" : "Bold UI", 
 "theme_link" : "http://www.google.com",
 "theme_image" : "https://raw.githubusercontent.com/adityaakadynamo/GG/master/hiten_boldui.png",
 "theme_version" : {
 "number" : "2.5",
-"latest" : "true"
+"latest" : ""
 }
 },
 {
@@ -13,7 +49,7 @@
 "theme_link" : "http://www.google.com",
 "theme_image" : "https://raw.githubusercontent.com/adityaakadynamo/GG/master/hiten_cherry.png",
 "theme_version" : {
-"number" : "2.5",
+"number" : "1.0",
 "latest" : "false"
 }
 },
@@ -22,7 +58,7 @@
 "theme_link" : "http://www.google.com",
 "theme_image" : "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/ThemeScreens/hiten_boldui.png",
 "theme_version" : {
-"number" : "2.5",
+"number" : "1.0",
 "latest" : "false"
 }
 }
