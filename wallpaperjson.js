@@ -57,7 +57,7 @@
     },
     {
     "name" : "Britzer1", 
-    "link" : "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Britzer1.png"
+    "link" : "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Britzer1.jpg"
     },
     { 
     "name" : "CardUi", 
