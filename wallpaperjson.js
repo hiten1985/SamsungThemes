@@ -98,7 +98,7 @@
     {
     "name" : "Eminence", 
     "link" : "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Eminence.png"
-    },
+    }
 ]
 
 
