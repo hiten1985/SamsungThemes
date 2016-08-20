@@ -229,8 +229,8 @@
       },
       {
         "name":"Paper",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Misc/Paper.png",
-        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Paper.png"
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Misc/Paper.jpg",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Paper.jpg"
       },
       {
         "name":"PaperUi",
