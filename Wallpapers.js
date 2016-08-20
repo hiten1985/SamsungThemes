@@ -2,11 +2,21 @@
   {
     "category_name":"Material",
     "walls":[
-{
-		"name": "Inspire1",
-		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Inspire.png",
-		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Inspire.png"
-	}
+     {
+		"name": "Fusion",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Material/Fusion.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Fusion.png"
+     },
+     {
+		"name": "Inspire",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Material/Inspire.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Inspire.png"
+     },
+     {
+		"name": "CardUi",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Material/CardUi.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/CardUi.png"
+     }
     ]
   },
   {
