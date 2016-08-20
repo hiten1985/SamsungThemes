@@ -13,6 +13,10 @@
       {
         "name":"Dazz",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Dazz.png"
+      },
+      {
+        "name":"Prime",
+        "link":"link" : "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Prime.png"
       }
     ]
   },
