@@ -12,7 +12,8 @@
 	}, {
 		"name": "Prime",
 		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Prime.png"
-	}]
+	}
+	]
 	}, {
 	"category_name": "Baloon",
 	"walls": [{
