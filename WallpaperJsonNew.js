@@ -13,16 +13,16 @@
 		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/CardUi.png"
 	}, 
 	{
-		"name": "Fusion",
-		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Fusion.png"
-	}, 
-	{
-		"name": "Card Ui",
-		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/CardUi.png"
-	}, 
-	{
 		"name": "Dazz",
 		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Dazz.png"
+	}, 
+	{
+		"name": "Ascend",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Ascend.png"
+	}, 
+	{
+		"name": "Britzer1",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Britzer1.jpg"
 	}, 
 	{
 		"name": "Prime",
