@@ -23,8 +23,9 @@
     "category_name":"Pattern & Stripes",
     "walls":[
       {
-        "name":"Auric",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Auric1.png"
+        "name":"Ace",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Stripes%26Patterns/Ace.png"
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Ace.png"
       }
     ]
   },
