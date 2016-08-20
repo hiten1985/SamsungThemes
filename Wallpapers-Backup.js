@@ -159,8 +159,8 @@
      },
      {
         "name":"Rise",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Patternsandstripes/Rise.png",
-        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Rise.png"
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Patternsandstripes/RiseUi.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/RiseUi.png"
      },
      {
         "name":"Rustic",
@@ -208,6 +208,46 @@
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Hexo.png"
       }
     ]
+   },
+   {
+    "category_name":"Misc",
+    "walls":[
+      {
+        "name":"Oxygen",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Misc/Noir1.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Noir1.png"
+      },
+      {
+        "name":"Noir",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Misc/Noir.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Noir.png"
+      },
+      {
+        "name":"Ore",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Misc/Ore.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Ore.png"
+      },
+      {
+        "name":"Paper",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Misc/Paper.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Paper.png"
+      },
+      {
+        "name":"PaperUi",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Misc/PaperUi.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/PaperUi.png"
+      },
+      {
+        "name":"Bora",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Misc/Bora.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Bora.png"
+      },
+      {
+        "name":"Random Shapes",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Misc/Random.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Random.png"
+      }
+     ]
    }
   ]
        
