@@ -2,9 +2,15 @@
   {
     "category_name":"Material",
     "walls":[
+{
+		"name": "Inspire1",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Inspire.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Inspire.png"
+	},
       {
 		"name": "Inspire",
-		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Inspire.png"
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Inspire.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Inspire.png"
 	}, 
 	{
 		"name": "Fusion",
