@@ -24,9 +24,9 @@
     "walls":[
       {
         "name":"Ace",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Stripes%26Patterns/Ace.png"
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Patternsandstripes/Ace.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Ace.png"
-      }
+     }
     ]
   },
   {
