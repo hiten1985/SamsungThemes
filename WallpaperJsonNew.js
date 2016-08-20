@@ -4,7 +4,7 @@
     "walls":[
       {
         "name":"Inspire",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Inspire.png.png"
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Inspire.png"
       },
       {
         "name":"Card Ui",
