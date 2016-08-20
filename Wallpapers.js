@@ -213,7 +213,7 @@
     "category_name":"Misc",
     "walls":[
       {
-        "name":"Oxygen",
+        "name":"Noir",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Misc/Noir1.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Noir1.png"
       },
