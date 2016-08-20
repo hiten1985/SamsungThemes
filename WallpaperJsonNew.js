@@ -1,6 +1,8 @@
-[{
-	"category_name": "Material",
-	"walls": [{
+[
+  {
+    "category_name":"Material",
+    "walls":[
+      {
 		"name": "Inspire",
 		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Inspire.png"
 	}, 
@@ -28,5 +30,28 @@
 		"name": "Prime",
 		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Prime.png"
 	}
-	 ]
-}]
+    ]
+  },
+  {
+    "category_name":"Bokeh",
+    "walls":[
+      {
+        "name":"Cherry",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Cherry.png"
+      },
+      {
+        "name":"Eminence",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Eminence.png"
+      }
+    ]
+  },
+  {
+    "category_name":"Patterns & Stripes",
+    "walls":[
+      {
+        "name":"Eminence",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Eminence.png"
+      }
+    ]
+  }
+]
