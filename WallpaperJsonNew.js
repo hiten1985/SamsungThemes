@@ -20,6 +20,10 @@
 		"name": "Ascend",
 		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Ascend.png"
 	}, 
+        {
+		"name": "Britzer1",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Britzer1.jpg"
+	}, 
 	{
 		"name": "Prime",
 		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Prime.png"
