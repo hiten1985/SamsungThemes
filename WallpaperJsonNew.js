@@ -36,12 +36,8 @@
     "category_name":"Bokeh",
     "walls":[
       {
-        "name":"Cherry",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Cherry.png"
-      },
-      {
-        "name":"Eminence",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Eminence.png"
+        "name":"Auric",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Auric1.png"
       }
     ]
   },
