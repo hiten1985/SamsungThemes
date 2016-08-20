@@ -191,22 +191,7 @@
         "name":"Oxygen",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Bokeh/Oxygen.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Oxygen.png"
-      },
-      {
-        "name":"Auric",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Bokeh/Auric.png",
-        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Auric.png"
-      },
-      {
-        "name":"Platin",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Bokeh/Platin.png",
-        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Platin.png"
-      },
-      {
-        "name":"Hexo",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Bokeh/Hexo.png",
-        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Hexo.png"
-      }
+     }
     ]
    }
   ]
