@@ -36,7 +36,7 @@
         "name":"Arena",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Patternsandstripes/Arena.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Arena.png"
-     },
+     }
     ]
   },
   {
