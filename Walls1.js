@@ -15,7 +15,7 @@
      {
 		"name": "CardUi",
 		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Material/CardUi.png",
-		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/CardUi.png.png"
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/CardUi.png"
      }
     ]
   },
