@@ -41,7 +41,27 @@
         "name":"Arena1",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/StripesandPatterns/Arena1.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Arena1.png"
-     }
+     },
+     {
+        "name":"Ascend",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/StripesandPatterns/Ascend.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Ascend.png"
+     },
+     {
+        "name":"Eco",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/StripesandPatterns/Eco.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Eco.png"
+     },
+     {
+        "name":"Prime",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/StripesandPatterns/Prime.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Prime.png"
+     },
+     {
+        "name":"Radiant",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/StripesandPatterns/Radiant.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Radiant.png"
+     },
     ]
   },
   {
