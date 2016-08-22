@@ -16,6 +16,11 @@
 		"name": "CardUi",
 		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Material/CardUi.png",
 		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/CardUi.png"
+     },
+     {
+		"name": "Stripes",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Material/Stripes.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Stripes.png"
      }
     ]
   },
