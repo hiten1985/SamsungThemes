@@ -14,12 +14,12 @@
      },
      {
 		"name": "CardUi",
-		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Material/CardUi.png",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/CardUi.png",
 		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/CardUi.png"
      },
      {
 		"name": "Stripes",
-		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Material/Stripes.png",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/Stripes.png",
 		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Stripes.png"
      }
     ]
@@ -29,18 +29,18 @@
     "walls":[
       {
         "name":"Ace",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Patternsandstripes/Ace.png",
-        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Ace.png"
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Stripesandpatterns/Ace.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Ace.png"
      },
      {
         "name":"Arena",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Patternsandstripes/Arena.png",
-        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Arena.png"
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Stripesandpatterns/Arena.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Arena.png"
      },
     {
         "name":"Arena1",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Patternsandstripes/Arena1.png",
-        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Arena1.png"
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Stripesandpatterns/Arena1.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Arena1.png"
      }
     ]
   },
@@ -49,7 +49,7 @@
     "walls":[
       {
         "name":"Oxygen",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Patternsandstripes/Oxygen.png",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Patternsandstripes/Arena1.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Oxygen.png"
       }
     ]
