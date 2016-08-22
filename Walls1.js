@@ -61,7 +61,7 @@
         "name":"Radiant",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/StripesandPatterns/Radiant.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Radiant.png"
-     },
+     }
     ]
   },
   {
@@ -78,9 +78,9 @@
     "category_name":"Misc",
     "walls":[
       {
-        "name":"Vogue3",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Misc/Vogue3.png",
-        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Vogue3.png"
+        "name":"Random",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Misc/RandomShapes.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/RandomShapes.png"
       }
      ]
    }
