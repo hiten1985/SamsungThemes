@@ -28,6 +28,11 @@
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Ace.png"
      },
      {
+        "name":"Ace1",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Patternsandstripes/Ace.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Ace.png"
+     },
+     {
         "name":"Arena",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Patternsandstripes/Arena.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Arena.png"
@@ -213,14 +218,19 @@
     "category_name":"Misc",
     "walls":[
       {
-        "name":"Noir",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Misc/Noir1.png",
-        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Noir1.png"
+        "name":"Vogue3",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Misc/Vogue3.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Vogue3.png"
       },
       {
         "name":"Noir",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Misc/Noir.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Noir.png"
+      },
+      {
+        "name":"Noir1",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Misc/Noir1.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Noir1.png"
       },
       {
         "name":"Ore",
