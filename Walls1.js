@@ -49,7 +49,7 @@
     "walls":[
       {
         "name":"Oxygen",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Bokeh/Oxygen.png",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Patternsandstripes/Oxygen.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Oxygen.png"
       }
     ]
