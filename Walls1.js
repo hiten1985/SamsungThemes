@@ -71,6 +71,21 @@
         "name":"Oxygen",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Bokeh/Oxygen.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Oxygen.png"
+      },
+      {
+        "name":"Bokeh",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Bokeh/Bokeh_1.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Bokeh_1.png"
+      },
+      {
+        "name":"Bokeh 2",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Bokeh/Bokeh_2.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Bokeh_2.png"
+      },
+      {
+        "name":"Bokeh 3",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Bokeh/Bokeh_3.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Bokeh_3.png"
       }
     ]
    },
