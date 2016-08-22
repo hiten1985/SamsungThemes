@@ -73,7 +73,7 @@
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Oxygen.png"
       },
       {
-        "name":"Bokeh",
+        "name":"Bokeh 1",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Bokeh/Bokeh_1.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Bokeh_1.png"
       },
@@ -92,6 +92,11 @@
    {
     "category_name":"Misc",
     "walls":[
+      {
+        "name":"Noise",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Misc/Noise.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Noise.png"
+      },
       {
         "name":"Random",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Misc/RandomShapes.png",
