@@ -49,8 +49,8 @@
     "walls":[
       {
         "name":"Oxygen",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Patternsandstripes/Arena1.png",
-        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Oxygen.png"
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Bokeh/Oxygen.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Oxygen.png"
       }
     ]
    },
