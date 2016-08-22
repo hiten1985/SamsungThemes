@@ -29,17 +29,17 @@
     "walls":[
       {
         "name":"Ace",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Stripesandpatterns/Ace.png",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/StripesandPatterns/Ace.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Ace.png"
      },
      {
         "name":"Arena",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Stripesandpatterns/Arena.png",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/StripesandPatterns/Arena.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Arena.png"
      },
     {
         "name":"Arena1",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Stripesandpatterns/Arena1.png",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/StripesandPatterns/Arena1.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Arena1.png"
      }
     ]
