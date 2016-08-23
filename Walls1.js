@@ -48,6 +48,11 @@
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Arena1.png"
      },
      {
+        "name":"Weyo",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/StripesandPatterns/Weyo.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Weyo.png"
+      },
+     {
         "name":"Ascend",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/StripesandPatterns/Ascend.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Ascend.png"
@@ -97,6 +102,11 @@
    {
     "category_name":"Misc",
     "walls":[
+      {
+        "name":"Mountain",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Misc/Mountain.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Mountain.png"
+      },
       {
         "name":"Noise",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Misc/Noise.png",
