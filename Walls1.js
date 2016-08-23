@@ -28,9 +28,9 @@
     "category_name":"Pattern & Stripes",
     "walls":[
       {
-        "name":"Radiant",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/StripesandPatterns/Radiant.png",
-        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Radiant.png"
+        "name":"Rise Ui",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/StripesandPatterns/RiseUi.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/RiseUi.png"
      },
       {
         "name":"Ace",
