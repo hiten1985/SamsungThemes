@@ -113,16 +113,6 @@
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Mountain.png"
       },
       {
-        "name":"Noise",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Misc/Noise.png",
-        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Noise.png"
-      },
-      {
-        "name":"Random",
-        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Misc/RandomShapes.png",
-        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/RandomShapes.png"
-      },
-      {
         "name":"Mountain",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Misc/Mountain_Trials.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Mountain_Trials.png"
@@ -131,6 +121,21 @@
         "name":"Mountain 2",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Misc/Mountain2.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Mountain2.png"
+      },
+      {
+        "name":"Mountain 3",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Misc/Mountain3.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Mountain3.png"
+      },
+      {
+        "name":"Noise",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Misc/Noise.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Noise.png"
+      },
+      {
+        "name":"Random",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Misc/RandomShapes.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/RandomShapes.png"
       },
       {
         "name":"Geo",
