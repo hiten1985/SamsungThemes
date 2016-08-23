@@ -123,6 +123,11 @@
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Mountain_Trials.png"
       },
       {
+        "name":"Mountain 2",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Misc/Mountain2.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Mountain2.png"
+      },
+      {
         "name":"Geo",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Misc/Geo.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Geo.png"
