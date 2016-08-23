@@ -101,6 +101,11 @@
         "name":"Bokeh 3",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Bokeh/Bokeh_3.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Bokeh_3.png"
+      },
+      {
+        "name":"Bokeh 4",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Bokeh/Bokeh_4.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Bokeh_4.png"
       }
     ]
    },
