@@ -21,6 +21,11 @@
 		"name": "Stripes",
 		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/Stripes.png",
 		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Stripes.png"
+     },
+     {
+		"name": "Stripes 2",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/Stripes2.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Stripes2.png"
      }
     ]
   },
