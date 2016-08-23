@@ -28,6 +28,11 @@
     "category_name":"Pattern & Stripes",
     "walls":[
       {
+        "name":"Radiant",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/StripesandPatterns/Radiant.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Radiant.png"
+     },
+      {
         "name":"Ace",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/StripesandPatterns/Ace.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Ace.png"
