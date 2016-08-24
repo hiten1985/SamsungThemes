@@ -13,6 +13,11 @@
 		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Inspire.png"
      },
      {
+		"name": "Material 1",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/Material1.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Material1.png"
+     },
+     {
 		"name": "CardUi",
 		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/CardUi.png",
 		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/CardUi.png"
@@ -131,6 +136,11 @@
         "name":"Mountain 3",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Misc/Mountain3.png",
         "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Mountain3.png"
+      },
+       {
+        "name":"Sea",
+        "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Misc/Sea.png",
+        "thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Sea.png"
       },
       {
         "name":"Noise",
