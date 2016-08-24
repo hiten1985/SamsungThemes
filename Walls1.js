@@ -3,6 +3,16 @@
     "category_name":"Material",
     "walls":[
      {
+		"name": "Soul",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/Soul.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Soul.png"
+     },
+     {
+		"name": "Vibes",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/Vibes.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Vibes.png"
+     },
+     {
 		"name": "Fusion",
 		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/Fusion.png",
 		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Fusion.png"
